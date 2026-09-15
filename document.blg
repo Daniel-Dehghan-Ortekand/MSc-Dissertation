@@ -1,0 +1,126 @@
+This is BibTeX, Version 0.99e
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: document.aux
+Reallocating 'name_of_file' (item size: 1) to 9 items.
+The style file: IEEEtran.bst
+Reallocating 'name_of_file' (item size: 1) to 11 items.
+Reallocating 'singl_function' (item size: 4) to 100 items.
+Reallocating 'singl_function' (item size: 4) to 100 items.
+Reallocating 'singl_function' (item size: 4) to 100 items.
+Reallocating 'wiz_functions' (item size: 4) to 6000 items.
+Reallocating 'singl_function' (item size: 4) to 100 items.
+Database file #1: References.bib
+Warning--string name "june" is undefined
+--line 275 of file References.bib
+Warning--string name "sept" is undefined
+--line 361 of file References.bib
+Warning--string name "june" is undefined
+--line 503 of file References.bib
+Warning--string name "sept" is undefined
+--line 645 of file References.bib
+Warning--string name "june" is undefined
+--line 703 of file References.bib
+Warning--string name "sept" is undefined
+--line 733 of file References.bib
+Warning--entry type for "Bastuji2020" isn't style-file defined
+--line 987 of file References.bib
+"{" immediately follows a field part---line 989 of file References.bib
+ :  title = \
+ :           {Local sleep spindles in the human thalamus\},
+I'm skipping whatever remains of this entry
+Warning--entry type for "Kim2015" isn't style-file defined
+--line 1017 of file References.bib
+"{" immediately follows a field part---line 1019 of file References.bib
+ :  title = \
+ :           {Characterization of Topographically Specific Sleep Spindles in Mice\},
+I'm skipping whatever remains of this entry
+Warning--entry type for "Nitzan2022" isn't style-file defined
+--line 1073 of file References.bib
+"{" immediately follows a field part---line 1075 of file References.bib
+ :  title = \
+ :           {Brain-wide interactions during hippocampal sharp wave ripples\},
+I'm skipping whatever remains of this entry
+Warning--string name "sept" is undefined
+--line 1123 of file References.bib
+Repeated entry---line 1129 of file References.bib
+ : @article{Watson2016
+ :                    ,
+I'm skipping whatever remains of this entry
+Warning--entry type for "Fernandez2020" isn't style-file defined
+--line 1159 of file References.bib
+"{" immediately follows a field part---line 1161 of file References.bib
+ :  title = \
+ :           {Sleep Spindles: Mechanisms and Functions\},
+I'm skipping whatever remains of this entry
+Warning--entry type for "Bernyi2014" isn't style-file defined
+--line 1189 of file References.bib
+"{" immediately follows a field part---line 1191 of file References.bib
+ :  title = \
+ :           {Large-scale,  high-density (up to 512 channels) recording of local circuits in behaving animals\},
+I'm skipping whatever remains of this entry
+Warning--entry type for "Bernhard2022" isn't style-file defined
+--line 1219 of file References.bib
+"{" immediately follows a field part---line 1221 of file References.bib
+ :  title = \
+ :           {Spatiotemporal patterns of sleep spindle activity in human anterior thalamus and cortex\},
+I'm skipping whatever remains of this entry
+Warning--entry type for "Ladenbauer2017" isn't style-file defined
+--line 1247 of file References.bib
+"{" immediately follows a field part---line 1249 of file References.bib
+ :  title = \
+ :           {Promoting Sleep Oscillations and Their Functional Coupling by Transcranial Stimulation Enhances Memory Consolidation in Mild Cognitive Impairment\},
+I'm skipping whatever remains of this entry
+-- IEEEtran.bst version 1.14 (2015/08/26) by Michael Shell.
+-- http://www.michaelshell.org/tex/ieeetran/bibtex/
+-- See the "IEEEtran_bst_HOWTO.pdf" manual for usage information.
+Warning--all relevant fields are empty in Bastuji2020
+Warning--all relevant fields are empty in Kim2015
+Warning--all relevant fields are empty in Nitzan2022
+Warning--all relevant fields are empty in Fernandez2020
+Warning--all relevant fields are empty in Bernyi2014
+Warning--all relevant fields are empty in Bernhard2022
+Warning--all relevant fields are empty in Ladenbauer2017
+
+Done.
+You've used 44 entries,
+            4087 wiz_defined-function locations,
+            1127 strings with 17340 characters,
+and the built_in function-call counts, 32388 in all, are:
+= -- 2680
+> -- 825
+< -- 248
++ -- 449
+- -- 161
+* -- 1665
+:= -- 5053
+add.period$ -- 75
+call.type$ -- 44
+change.case$ -- 34
+chr.to.int$ -- 504
+cite$ -- 51
+duplicate$ -- 2333
+empty$ -- 2403
+format.name$ -- 185
+if$ -- 7412
+int.to.chr$ -- 0
+int.to.str$ -- 44
+missing$ -- 430
+newline$ -- 227
+num.names$ -- 37
+pop$ -- 918
+preamble$ -- 1
+purify$ -- 0
+quote$ -- 2
+skip$ -- 2518
+stack$ -- 0
+substring$ -- 1280
+swap$ -- 1976
+text.length$ -- 80
+text.prefix$ -- 0
+top$ -- 5
+type$ -- 44
+warning$ -- 7
+while$ -- 120
+width$ -- 46
+write$ -- 531
+(There were 8 error messages)
