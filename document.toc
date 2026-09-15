@@ -1,0 +1,58 @@
+\contentsline {chapter}{Abstract}{1}{chapter*.1}%
+\contentsline {chapter}{\numberline {1}Introduction}{1}{chapter.1}%
+\contentsline {section}{\numberline {1.1}Sleep Stages}{1}{section.1.1}%
+\contentsline {subsection}{\numberline {1.1.1}Stage 1 (NREM1)}{1}{subsection.1.1.1}%
+\contentsline {subsection}{\numberline {1.1.2}Stage 2 (NREM2)}{2}{subsection.1.1.2}%
+\contentsline {subsection}{\numberline {1.1.3}Stage 3 (NREM3 / Slow-Wave Sleep, SWS)}{2}{subsection.1.1.3}%
+\contentsline {section}{\numberline {1.2}Characteristic Sleep Oscillations}{3}{section.1.2}%
+\contentsline {subsection}{\numberline {1.2.1}Sleep spindles}{3}{subsection.1.2.1}%
+\contentsline {subsection}{\numberline {1.2.2}slow oscillations}{4}{subsection.1.2.2}%
+\contentsline {subsection}{\numberline {1.2.3}ripples}{4}{subsection.1.2.3}%
+\contentsline {section}{\numberline {1.3}Electrophysiological Recordings}{4}{section.1.3}%
+\contentsline {subsection}{\numberline {1.3.1}Electroencephalography (EEG)}{5}{subsection.1.3.1}%
+\contentsline {subsection}{\numberline {1.3.2}Local Field Potentials (LFPs)}{5}{subsection.1.3.2}%
+\contentsline {section}{\numberline {1.4}The Thalamus}{6}{section.1.4}%
+\contentsline {subsection}{\numberline {1.4.1}Thalamus in Mice}{6}{subsection.1.4.1}%
+\contentsline {section}{\numberline {1.5}The Hippocampus in Mice}{6}{section.1.5}%
+\contentsline {chapter}{\numberline {2}Review of Previous Studies}{8}{chapter.2}%
+\contentsline {section}{\numberline {2.1}Introduction}{8}{section.2.1}%
+\contentsline {section}{\numberline {2.2}Global and Local Events and Co-occurring Events}{8}{section.2.2}%
+\contentsline {section}{\numberline {2.3}Phase-locking of sleep-related events with neuronal activity}{13}{section.2.3}%
+\contentsline {section}{\numberline {2.4}Propagation of Brain Waves and Sleep Events}{22}{section.2.4}%
+\contentsline {chapter}{\numberline {3}Materials and Methods}{28}{chapter.3}%
+\contentsline {section}{\numberline {3.1}Introduction}{28}{section.3.1}%
+\contentsline {section}{\numberline {3.2}Data}{28}{section.3.2}%
+\contentsline {subsection}{\numberline {3.2.1}Recording Electrodes}{28}{subsection.3.2.1}%
+\contentsline {subsubsection}{Buzsáki 64}{29}{subsubsection*.37}%
+\contentsline {section}{\numberline {3.3}Data Processing}{29}{section.3.3}%
+\contentsline {subsection}{\numberline {3.3.1}Data Preprocessing}{29}{subsection.3.3.1}%
+\contentsline {subsection}{\numberline {3.3.2}Detection of Slow Oscillations}{30}{subsection.3.3.2}%
+\contentsline {subsection}{\numberline {3.3.3}Detection of Sleep Spindles}{30}{subsection.3.3.3}%
+\contentsline {subsection}{\numberline {3.3.4}Detection of Sharp-Wave Ripples}{30}{subsection.3.3.4}%
+\contentsline {section}{\numberline {3.4}Data Analyses}{31}{section.3.4}%
+\contentsline {subsection}{\numberline {3.4.1}Time–Frequency Analysis}{31}{subsection.3.4.1}%
+\contentsline {subsection}{\numberline {3.4.2}Analysis of Phase-locking between Events and Neuronal Activity}{31}{subsection.3.4.2}%
+\contentsline {subsection}{\numberline {3.4.3}Separation of Global and Local Sleep Spindles}{31}{subsection.3.4.3}%
+\contentsline {subsection}{\numberline {3.4.4}Separation of single--peak and double--peak Slow Oscillations}{32}{subsection.3.4.4}%
+\contentsline {subsection}{\numberline {3.4.5}PAC Analysis between Sleep Spindles and Slow Oscillations}{32}{subsection.3.4.5}%
+\contentsline {subsection}{\numberline {3.4.6}PAC Analysis between Ripples and Sleep Spindles}{32}{subsection.3.4.6}%
+\contentsline {subsection}{\numberline {3.4.7}Phase Analysis of Sleep Oscillations and Thalamic Neurons}{32}{subsection.3.4.7}%
+\contentsline {subsection}{\numberline {3.4.8}Modulation Index Analysis}{33}{subsection.3.4.8}%
+\contentsline {subsection}{\numberline {3.4.9}Analysis of Sleep Spindle Propagation}{33}{subsection.3.4.9}%
+\contentsline {section}{\numberline {3.5}Statistical Analyses}{33}{section.3.5}%
+\contentsline {subsection}{\numberline {3.5.1}Circular Statistical Tests}{33}{subsection.3.5.1}%
+\contentsline {subsection}{\numberline {3.5.2}Statistical Tests}{33}{subsection.3.5.2}%
+\contentsline {section}{\numberline {3.6}Hypotheses}{34}{section.3.6}%
+\contentsline {section}{\numberline {3.7}Problem Statement}{34}{section.3.7}%
+\contentsline {chapter}{\numberline {4}Results}{36}{chapter.4}%
+\contentsline {section}{\numberline {4.1}Separation of Sleep Spindles and Slow Oscillations}{36}{section.4.1}%
+\contentsline {subsection}{\numberline {4.1.1}Global and Local Sleep Spindles}{36}{subsection.4.1.1}%
+\contentsline {section}{\numberline {4.2}Separation of Single-Peak and Double-Peak Slow Oscillations}{36}{section.4.2}%
+\contentsline {section}{\numberline {4.3}Analysis of Neuronal Activity Around Spindle Events and Slow Oscillations}{40}{section.4.3}%
+\contentsline {subsection}{\numberline {4.3.1}Neuronal Activity Around Global and Local Sleep Spindles}{40}{subsection.4.3.1}%
+\contentsline {subsection}{\numberline {4.3.2}Neuronal Activity Around Single-Peak and Double-Peak Slow Oscillations}{41}{subsection.4.3.2}%
+\contentsline {section}{\numberline {4.4}Relationship Between Single-Peak and Double-Peak Slow Oscillations and Sleep Spindles}{44}{section.4.4}%
+\contentsline {section}{\numberline {4.5}Propagation of Spindles}{45}{section.4.5}%
+\contentsline {section}{\numberline {4.6}Relationship Between Spindles and Ripples}{45}{section.4.6}%
+\contentsline {chapter}{\numberline {5}Discussion and Conclusion}{50}{chapter.5}%
+\contentsline {chapter}{\numberline {6}Appendix}{55}{chapter.6}%
